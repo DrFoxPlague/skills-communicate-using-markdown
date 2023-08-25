@@ -6,3 +6,7 @@
 ``` python
 exVar = "Hello!"
 ```
+
+- [x] Do stuff
+- [ ] ???
+- [ ] Profit!
